@@ -1,7 +1,7 @@
 ####Calculate Body Mass Index (BMI)
 
 BMI <- function(weight, height) {
-  BMI <- weight / (height^2)
+  BMI <- weight / (height**2)
   
   ###Get your results
   
