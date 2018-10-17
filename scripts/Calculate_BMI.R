@@ -1,13 +1,3 @@
-#######Function to calculate a BMI
-
-####Input your weight in kg
-
-weight <- 70
-
-###Input your height in m
-
-height <- 1.7
-
 ####Calculate Body Mass Index (BMI)
 
 BMI <- function(weight, height) {
